@@ -20,11 +20,11 @@ The main goal is to assess the feasibility and effectiveness of using post-train
 
 The experiments showed that:
 
-- **8-bit and 4-bit quantization** provided significant computational benefits with only a small increase in the FID score (around 1.5-2 points).
+- **8-bit and 4-bit quantization** provided significant computational benefits with only a small increase in the FID score (around 1.5-2 points). <br>
   ![image](https://github.com/user-attachments/assets/009bb7d3-7d8a-4cd2-b07f-914fe64da0b8)
-- **2-bit quantization** resulted in a substantial drop in performance, with the FID score exceeding 100.
+- **2-bit quantization** resulted in a substantial drop in performance, with the FID score exceeding 100.<br>
   ![image](https://github.com/user-attachments/assets/a70a7e32-a2d2-41f3-a06c-63d9b78c40da)
-- **Increasing the number of sampling steps** did not always improve performance, indicating that adding steps may not be beneficial under quantization.
+- **Increasing the number of sampling steps** did not always improve performance, indicating that adding steps may not be beneficial under quantization.<br>
   ![image](https://github.com/user-attachments/assets/bfbabdf3-c286-4ef5-89d0-419e50d28bad)
 
   
