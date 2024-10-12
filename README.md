@@ -27,6 +27,8 @@ The experiments showed that:
 
 These findings suggest that quantization, particularly at 8-bit and 4-bit precision, can be an effective tool for speeding up diffusion models with minimal loss in performance.
 
+![image](https://github.com/user-attachments/assets/7ba34f73-f0a2-4681-8d9d-bc3af4943599)
+
 
 ## Acknowledgments
 
