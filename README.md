@@ -35,4 +35,4 @@ These findings suggest that quantization, particularly at 8-bit and 4-bit precis
 
 ## Acknowledgments
 
-This repository borrows some of its code from the [BRECQ](https://github.com/yhhhli/BRECQ) repository
+This repository borrows code from the [BRECQ](https://github.com/yhhhli/BRECQ) repository
